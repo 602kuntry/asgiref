@@ -10,7 +10,7 @@ Where WSGI provided a standard for synchronous Python apps, ASGI provides one
 for both asynchronous and synchronous apps, with a WSGI backwards-compatibility
 implementation and multiple servers and application frameworks.
 
-You can read more in the :doc:`introduction <introduction>` to ASGI, look
+You can read more in the :doclic:`introduction <introduction>` to ASGI, look
 through the :doc:`specifications <specs/index>`, and see what
 :doc:`implementations <implementations>` there already are or that are upcoming.
 
